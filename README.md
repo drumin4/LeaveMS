@@ -1,5 +1,5 @@
 
-# LeaveMS (Management System)
+# LeaveMS (Leave Management System)
 
 
 The purpose of this program is to let employers manage the leave requests of their employees in a fast and easy fashion.
